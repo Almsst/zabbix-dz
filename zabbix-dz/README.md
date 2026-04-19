@@ -56,3 +56,8 @@
 - ✅ К каждому хосту привязан шаблон `Linux by Zabbix agent`
 - ✅ К каждому хосту привязан шаблон `System Monitor - CPU and RAM`
 - ✅ Данные собираются (зелёный ZBX)
+
+- ## Задание 4
+
+- <img width="1196" height="720" alt="image" src="https://github.com/user-attachments/assets/e9e3d87e-085d-498c-9d10-3b510c3d843a" />
+
