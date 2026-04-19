@@ -4,15 +4,11 @@
 
 Создан шаблон `System Monitor - CPU and RAM` для мониторинга загрузки CPU и RAM хоста.
 
-### Скриншот
-
-![Задание 1](task1.png)
-
 ### Скриншоты
 
 #### 1. Шаблон с элементами данных (Items)
 
-![Items](items.png)
+<img width="993" height="470" alt="image" src="https://github.com/user-attachments/assets/d85a103f-5578-4b86-a422-af663e6dc305" />
 
 *На скриншоте показаны два item'а:*
 - `CPU load in percent` с ключом `system.cpu.util[,,user]`
@@ -20,11 +16,8 @@
 
 #### 2. Собираемые данные (Latest data)
 
-![Dashboard](dashboard.png)
+<img width="1198" height="619" alt="image" src="https://github.com/user-attachments/assets/8b8b5413-cdee-4e8a-9b87-389da6b13a9b" />
 
-*На скриншоте видно, что данные успешно собираются:*
-- Загрузка CPU: ~4.5%
-- Загрузка RAM: ~63.8%
 ### Статус выполнения
 
 - ✅ Шаблон создан
